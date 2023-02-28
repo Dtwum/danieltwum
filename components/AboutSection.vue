@@ -33,7 +33,7 @@
               <p>Companies Worked</p>
             </div>
           </div>
-          <a href="pdf/resume.pdf" target="_blank" class="btn btn_primary mt-5">
+          <a href="pdf/resumedee.pdf" target="_blank" class="btn btn_primary mt-5">
             Download CV <i class="uil uil-import mx-2"></i>
           </a>
         </div>
