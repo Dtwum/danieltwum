@@ -11,13 +11,13 @@
       <div class="col-md-6">
         <div class="content">
           <p>
-            A Product owner  with {{experience}} years of experience in managing teams software development. Recognized for
+            A Product owner  with {{experience}} years of experience managing teams in software development. Recognized for
             demonstrating strong analytical skills and proven software 
-            development skills. Expert in  <br> <code> Scrum and Agile Methodology <br> </code> <code> Complete Product Lifecycle<br></code> <code> Design and UX Principles <br></code>and <br>
-            <code>HTML and CSS</code>. <br>
-            I have multiple years of experience in a wide range of disciplines including entrepreneurship, engineering, data analytics, internet marketing, conversion optimization, and UX. 
+            development skills. Expert in  <br> <code> Scrum and Agile Methodology <br> </code> <code> Product Lifecycle<br></code> <code> Design and UX Principles <br></code>and <br>
+            <code>HTML | CSS</code>. <br>
+            I have multiple years of experience in a wide range of disciplines including entrepreneurship, Network engineering, data analytics, digital marketing, cyber security, and UX. 
             These experiences have given me unique insights into the product lifecycle and has allowed me to think through the entire customer journey while challenging our own assumptions.
-             Effective and articulate communicator with all levels of employees.
+             I an effective and articulate communicator with all levels of employees.
           </p>
           <div class="stats">
             <div class="stat">
