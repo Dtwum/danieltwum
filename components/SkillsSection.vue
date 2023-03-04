@@ -30,7 +30,7 @@
                   <div
                     class="progress-bar"
                     role="progressbar"
-                    style="width: 50%"
+                    style="width: 90%"
                     aria-valuenow="50"
                     aria-valuemin="0"
                     aria-valuemax="100"

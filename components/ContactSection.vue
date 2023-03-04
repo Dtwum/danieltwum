@@ -49,7 +49,7 @@ export default {
         process.env.EMAIL_SERVICE,
         process.env.EMAIL_TEMPLATE,
         {
-          to_name: 'Isaac',
+          to_name: 'Daniel',
           from_name: name,
           email,
           message

@@ -17,9 +17,9 @@
       <li class="nav-item">
         <a href="#contact" class="nav-link">Contact</a>
       </li>
-      <li class="nav-item">
+     <!-- <li class="nav-item">
         <a href="#" class="nav-link">Other</a>
-      </li>
+      </li>-->
       <li class="nav-item">
         <a href="#" class="nav-link"><i class="uil uil-moon"></i></a>
       </li>
@@ -32,6 +32,7 @@
 <script>
 export default {
   name: 'SiteNavbar'
+  
 
 }
 </script>
